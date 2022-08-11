@@ -1,1 +1,1 @@
-"hello south africa!"
+print("hello south africa!")
